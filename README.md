@@ -1,13 +1,14 @@
 # Bárbara Gleyce
 
 + Técnica em Informática pelo o Instituto Federal
++ Interessado em desenvolvimento back-end  
 
 ## 💻 Skills
 <div class="icon-list">
-    <img src="https://skillicons.dev/icons?i=py,c,java,js, html, css" />
+    <img src="https://skillicons.dev/icons?i=java,c,js,html,css" />
 </div>
 
-## 📚 Em aprendizado
+## 📚🧠 Em aprendizado
 <div class="icon-list">
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=py,mysql" />
 </div>
