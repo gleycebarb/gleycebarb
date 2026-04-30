@@ -4,7 +4,7 @@
 
 ## Skills 🔥
 <div class="icon-list">
-    <img src="https://skillicons.dev/icons?i=java,c,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=py,c,java,js,html,css" />
 </div>
 
 ## Learning 🧠
