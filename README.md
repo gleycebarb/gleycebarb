@@ -9,5 +9,5 @@
 
 ## Learning 🧠
 <div class="icon-list">
-    <img src="https://skillicons.dev/icons?i=py,mysql" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
 </div>
