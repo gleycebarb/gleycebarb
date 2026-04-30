@@ -1,7 +1,6 @@
 # Bárbara Gleyce
 
-+ Técnica em Informática pelo o Instituto Federal
-+ Interessado em desenvolvimento back-end  
++ Técnica em Informática pelo o Instituto Federal.
 
 ## 💻 Skills
 <div class="icon-list">
